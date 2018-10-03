@@ -15,4 +15,8 @@ public class Animals {
     public void setEdad(){
         
     }
+    
+    public void setPeso(){
+        
+    }
 }
