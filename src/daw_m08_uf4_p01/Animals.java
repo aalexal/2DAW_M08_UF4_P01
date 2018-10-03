@@ -19,4 +19,8 @@ public class Animals {
     public void setPeso(){
         
     }
+    
+    public void fantasma(){
+        
+    }
 }
