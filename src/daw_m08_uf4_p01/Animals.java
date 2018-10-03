@@ -11,4 +11,8 @@ public class Animals {
     public void canviNom(){
     
     }
+    
+    public void setEdad(){
+        
+    }
 }
