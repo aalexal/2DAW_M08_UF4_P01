@@ -21,7 +21,7 @@ public class Animals {
     }
     
     public void fantasma(){
-        int x = 2+2;
-        int y = 2*2;
+        int x = 4+8;
+        int y = 1*6;
     }
 }
